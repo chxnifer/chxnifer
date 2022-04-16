@@ -4,7 +4,7 @@
 
 - I am passionate about Computer Science 
 
-- I am currently working on making a sample game using Python
+- I am currently working on making a sample game using Python(mainly experimenting with pygame)
 
 - I am currently learning Python and Java
 <!--
