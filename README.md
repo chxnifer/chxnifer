@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I have a strong passion for computer science
 <!--
 **chxnifer/chxnifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
