@@ -1,5 +1,12 @@
-### Hi there 👋
-I have a strong passion for computer science
+# Hi there, I'm Jennifer 👋
+
+# About me
+
+- I am passionate about Computer Science 
+
+- I am currently working on making a sample game using Python
+
+- I am currently learning Python and Java
 <!--
 **chxnifer/chxnifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
