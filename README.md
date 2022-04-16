@@ -1,12 +1,16 @@
 # Hi there, I'm Jennifer 👋
 
-# About me
+# About me ˗ˏˋ ♡ ˎˊ˗
 
 - I am passionate about Computer Science 
 
 - I am currently working on making a sample game using Python(mainly experimenting with pygame)
 
 - I am currently learning Python and Java
+
+# What I want to learn ( •̯́ ^ •̯̀)
+
+- Front-end and back-end web/app development
 <!--
 **chxnifer/chxnifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
