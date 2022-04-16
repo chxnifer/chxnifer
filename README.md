@@ -11,6 +11,8 @@
 # What I want to learn ( •̯́ ^ •̯̀)
 
 - Front-end and back-end web/app development
+
+- Possibly experimenting with other python modules(such as tkinter)
 <!--
 **chxnifer/chxnifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
