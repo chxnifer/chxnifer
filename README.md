@@ -2,7 +2,7 @@
 
 # About me ˗ˏˋ ♡ ˎˊ˗
 
-- I am passionate about Computer Science 
+<!--- I am passionate about Computer Science 
 
 - I am currently working on making a game using Python(mainly experimenting with pygame) and a personal website 👍
 
@@ -12,7 +12,8 @@
 
 - Front-end and back-end web/app development
 
-- More Python modules(such as tkinter)
+- More Python modules(such as tkinter) -->
+
 <!--
 **chxnifer/chxnifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
